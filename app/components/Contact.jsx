@@ -14,8 +14,8 @@ const Contact = () => {
       </p>
       <p className="tracking-wide">
         Excited to meet you in person! Come visit us at our office to discuss
-        your new design. We’re looking forward to connecting face-to-face. See
-        you soon!
+        your new design. We&apos;re looking forward to connecting face-to-face.
+        See you soon!
       </p>
       <button className="flex items-center gap-2 border-2 border-black px-5 py-3 text-xl font-medium transition-all hover:bg-black hover:text-white">
         Let's Talk

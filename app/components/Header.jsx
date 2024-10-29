@@ -8,7 +8,7 @@ const Header = () => {
     <header className="w-full h-20">
       <nav className="w-full h-full flex items-center justify-center gap-10 uppercase">
         <a
-          href="/"
+          href=""
           className="active text-[0.8rem] tracking-wide px-3 py-1 rounded-3xl"
         >
           Home
