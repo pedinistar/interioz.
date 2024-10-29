@@ -18,7 +18,7 @@ const Contact = () => {
         See you soon!
       </p>
       <button className="flex items-center gap-2 border-2 border-black px-5 py-3 text-xl font-medium transition-all hover:bg-black hover:text-white">
-        Let's Talk
+        Let &apos; s Talk
         <RxArrowTopRight />
       </button>
     </div>

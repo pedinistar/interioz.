@@ -6,7 +6,7 @@ const Connect = () => {
       <div className="">
         <div className="line w-72 h-[0.06rem] bg-[#9b9b9b]"></div>
         <h1 className="text-8xl text-left font-semibold mt-6 leading-none tracking-tighter">
-          Let&apos;s <br /> Connect
+          Let &apos; s <br /> Connect
         </h1>
       </div>
       <div className="card text-zinc-500 flex flex-col gap-3">
